@@ -1,3 +1,3 @@
 # Bee-Classifier
 
-Classifies bees using SVM.
+Classifies bees subspecies using a SVM (rbf kernel) model.
